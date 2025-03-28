@@ -1,19 +1,18 @@
-# Ansible Git Repository 使用手冊 (for developer)
+# Ansible 版本控制
 
-1. Target
-1. Git 工作流程
-   1. 分支管理策略
-   1. Commit 風格
+1. [Target](#target)
+1. [分支管理策略](#branching_strategy)
+1. [Commit 風格](#commit)
 
-## Target
+## Target<a name="target"></a>
 
 本指南旨在提供 Ansible Git Repository 的版本管理。
 
-## 分支管理策略
+## 分支管理策略<a name="branching_strategy"></a>
 
 使用 Mainline Development，所有變更直接提交到 main 分支，避免分支混亂。
 
-## Commit 風格
+## Commit 風格<a name="commit"></a>
 
 使用清晰的 commit 訊息，例如：
 
