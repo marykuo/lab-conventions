@@ -1,4 +1,4 @@
-# Ansible 版本控制
+# Ansible Git Repository 版本控制
 
 1. [Target](#target)
 1. [分支管理策略](#branching_strategy)
